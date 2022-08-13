@@ -1,0 +1,2 @@
+# MsgDrop
+Simple Secure Messenger
